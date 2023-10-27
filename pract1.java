@@ -5,3 +5,4 @@ modificacio  2
 /* comentari amb intrss
 ffrt */
 
+System.out.println( 10 % 5);
