@@ -1,3 +1,4 @@
+
 //practica prova
 hola arnau
 modificacio  2
@@ -10,3 +11,4 @@ System.out.println(4 + 2);
 
 System.out.println( 10 % 5);
  
+darrera modificacio
